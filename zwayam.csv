@@ -1,0 +1,91 @@
+Job Titles,Grade,Concat Value,Job Code,Job Family,Job Group,Designation ID,Function,Track,Subtrack,Effective date
+Manager - Leadership Success,3.3,"3.3-Manager - Leadership Success,",MgrLeadSucc,Administration,Enabling,MgrLeadSucc (1),Admin,Admin,Generic,5/25/2021
+Manager - Leadership Success,5.1,5.1-Manager - Leadership Success,MgrLeadSucc,Administration,Enabling,MgrLeadSucc (2),Admin,Admin,Generic,5/25/2021
+Associate Consultant,1.3,1.3-Associate Consultant,AssocConsultant,Consulting,Delivery,AssoCon (7),Delivery Units,Technical Consultant,Generic,6/9/2021
+Manager - Strategic Initiatives,7.1,7.1-Manager - Strategic Initiatives,MgrStrategicIn,Corporate Office,Enabling,MgrStrategicIn (1),Corporate,Corporate,Generic,5/13/2021
+Manager - Strategic Initiatives,7.3,7.3-Manager - Strategic Initiatives,MgrStrategicIn,Corporate Office,Enabling,MgrStrategicIn (2),Corporate,Corporate,Generic,5/13/2021
+Manager - Strategic Initiatives,9.1,9.1-Manager - Strategic Initiatives,MgrStrategicIn,Corporate Office,Enabling,MgrStrategicIn (3),Corporate,Corporate,Generic,5/13/2021
+Associate Vice President - Strategic Initiatives,11.3,11.3-Associate Vice President - Strategic Initiatives,AVPStrategicIn,Corporate Office,Enabling,AVPStrategicIn (1),Corporate,Corporate,Generic,5/13/2021
+Head - ESG,11.3,11.3-Head - ESG,HeadESG,Corporate Office,Enabling,HeadESG (1),Corporate,Corporate,Generic,3/9/2022
+Associate Vice President - Strategic Initiatives,13.1,13.1-Associate Vice President - Strategic Initiatives,AVPStrategicIn,Corporate Office,Enabling,AVPStrategicIn (2),Corporate,Corporate,Generic,5/13/2021
+Head - ESG,13.1,13.1-Head - ESG,HeadESG,Corporate Office,Enabling,HeadESG (2),Corporate,Corporate,Generic,3/9/2022
+Executive Management Member,13.1,13.1-Executive Management Member,ExcMgmtMem,Corporate Office,Enabling,ExcMgmtMem,Corporate,Corporate,Generic,1/1/2020
+Executive Management Member,13.3,13.3-Executive Management Member,ExcMgmtMem,Corporate Office,Enabling,ExcMgmtMem (1),Corporate,Corporate,Generic,1/1/2020
+Executive Management Member,13.5,13.5-Executive Management Member,ExcMgmtMem,Corporate Office,Enabling,ExcMgmtMem (2),Corporate,Corporate,Generic,1/1/2020
+Executive Management Member,13.7,13.7-Executive Management Member,ExcMgmtMem,Corporate Office,Enabling,ExcMgmtMem (3),Corporate,Corporate,Generic,1/1/2020
+Senior Engineering Partner and Center Head,11.1,11.1-Senior Engineering Partner and Center Head,SrEnggPartandCH,Engineering - Management,Delivery,SrEnggPartandCH (2),Delivery Units,Management,Generic,10/12/2020
+"Head - Business Operations, Europe",11.3,"11.3-Head - Business Operations, Europe",HeadBusOpsEurope,Engineering - Management,Delivery,HeadBusOpsEurope (1),Delivery Units,Management,Generic,3/15/2021
+Senior Engineering Partner and Center Head,11.3,11.3-Senior Engineering Partner and Center Head,SrEnggPartandCH,Engineering - Management,Delivery,SrEnggPartandCH (1),Delivery Units,Management,Generic,10/12/2020
+Associate Vice President - Engineering and Center Head,13.1,13.1-Associate Vice President - Engineering and Center Head,AVP-EnggandCH,Engineering - Management,Delivery,AVP-EnggandCH,Delivery Units,Management,Generic,10/12/2020
+"Head - Business Operations, Europe",13.1,"13.1-Head - Business Operations, Europe",HeadBusOpsEurope,Engineering - Management,Delivery,HeadBusOpsEurope (2),Delivery Units,Management,Generic,3/15/2021
+Head - Delivery Excellence and Process Transformation,13.3,13.3-Head - Delivery Excellence and Process Transformation,HeadDelExcelland PT,Engineering - Management,Delivery,HeadDelExcelland PT (1),Delivery Units,Management,Generic,9/23/2021
+Senior Vice President - Digital Consulting,13.3,13.3-Senior Vice President - Digital Consulting,CVPDigiCons,Engineering - Management,Delivery,CVPDigiCons (1),Delivery Units,Management,Generic,6/4/2021
+Senior Vice President - Engineering and Center Head,13.3,13.3-Senior Vice President - Engineering and Center Head,SVP - EnggandCH,Engineering - Management,Delivery,SVP - EnggandCH (1),Delivery Units,Management,Generic,10/12/2020
+Vice President - Engineering and Center Head,13.3,13.3-Vice President - Engineering and Center Head,VP-EnggandCH,Engineering - Management,Delivery,VP-EnggandCH (1),Delivery Units,Management,Generic,10/12/2020
+Senior Vice President - Digital Consulting,13.5,13.5-Senior Vice President - Digital Consulting,CVPDigiCons,Engineering - Management,Delivery,CVPDigiCons (2),Delivery Units,Management,Generic,6/4/2021
+Associate Vice President - Product Engineering,11.1,11.1-Associate Vice President - Product Engineering,AVP-ProdEngg,Product Management,Delivery,AVP-ProdEngg (1),Delivery Units,Product Management,Generic,7/20/2021
+Associate Vice President - Products,11.1,11.1-Associate Vice President - Products,AVP-Prod,Product Management,Delivery,AVP-Prod (1),Delivery Units,Product Management,Generic,7/20/2021
+Chief Manager - PLM & Business,11.1,11.1-Chief Manager - PLM & Business,ChMgr-PLM&Bus,Product Management,Delivery,ChMgr-PLM&Bus (2),Delivery Units,Management,Generic,12/29/2021
+Associate Vice President - Product Engineering,11.3,11.3-Associate Vice President - Product Engineering,AVP-ProdEngg,Product Management,Delivery,AVP-ProdEngg (2),Delivery Units,Product Management,Generic,7/23/2021
+Principal Engineering Manager and Center Head,9.3,9.3-Principal Engineering Manager and Center Head,PriEnggMgrAndCH,Engineering - Project Management,Delivery,PriEnggMgrAndCH (1),Delivery Units,Management,Generic,10/12/2020
+Chief Manager - Engineering and Center Head,11.1,11.1-Chief Manager - Engineering and Center Head,ChiefMgr-EnggandCH,Engineering - Project Management,Delivery,ChiefMgr-EnggandCH (3),Delivery Units,Project Management,Generic,11/24/2020
+Chief Manager - Engineering and Center Head,11.3,11.3-Chief Manager - Engineering and Center Head,ChiefMgr-EnggandCH,Engineering - Project Management,Delivery,ChiefMgr-EnggandCH (1),Delivery Units,Management,Generic,10/12/2020
+Platform Solution Expert,5.2,5.2-Platform Solution Expert,PlatSolExpert,Engineering - Technical,Delivery,PlatSolExpert (1),Delivery Units,Technical,Generic,6/14/2021
+Platform Solution Expert,5.3,5.3-Platform Solution Expert,PlatSolExpert,Engineering - Technical,Delivery,PlatSolExpert (2),Delivery Units,Technical,Generic,6/14/2021
+Chief Architect - Research & Innovation and Center Head,11.1,11.1-Chief Architect - Research & Innovation and Center Head,Chief Architect - Research & Innovation and Center Head,Engineering - Technical,Delivery,ChiefArchRes&InnAndCH (1),Delivery Units,Technical,Generic,11/22/2021
+Chief Architect - Research & Innovation and Center Head,11.3,11.3-Chief Architect - Research & Innovation and Center Head,Chief Architect - Research & Innovation and Center Head,Engineering - Technical,Delivery,ChiefArchRes&InnAndCH (2),Delivery Units,Technical,Generic,11/22/2021
+Application Support Engineer,1.3,1.3-Application Support Engineer,AppSupportEngr,Engineering - Technical Support,Delivery,AppSuppEngg (1),Delivery Units,Technical Support,Generic,9/1/2020
+Chief Administrative Officer,13.1,13.1-Chief Administrative Officer,CAdminO,Executive Management,Executive Management,CAO (1),Corporate,Corporate,Generic,8/1/2020
+Chief People Officer,13.1,13.1-Chief People Officer,CHRO,Executive Management,Executive Management,CPO(1),Human Resources,Human Resources,Generic,2/1/2012
+Chief Planning Officer,13.1,13.1-Chief Planning Officer,CPlanO,Executive Management,Executive Management,CPO (3),Corporate,Corporate,Generic,4/1/2012
+Chief Administrative Officer,13.3,13.3-Chief Administrative Officer,CAdminO,Executive Management,Executive Management,CAO (2),Corporate,Corporate,Generic,8/1/2020
+Chief Corporate Development Officer,13.3,13.3-Chief Corporate Development Officer,ChiefCorpDevOff,Executive Management,Executive Management,ChiefCorpDevOff (1),Corporate,Corporate,Generic,12/3/2020
+Chief Planning Officer,13.3,13.3-Chief Planning Officer,CPlanO,Executive Management,Executive Management,CPO (4),Corporate,Corporate,Generic,6/1/2012
+Chief Sales Officer,13.3,13.3-Chief Sales Officer,ChiefSalesOff,Executive Management,Executive Management,ChiefSalesOff,Global Sales,Sales,Generic,1/1/2020
+Chief Administrative Officer,13.5,13.5-Chief Administrative Officer,CAdminO,Executive Management,Executive Management,CAO (3),Corporate,Corporate,Generic,8/1/2020
+Chief Delivery Officer,13.5,13.5-Chief Delivery Officer,ChiefDelOff,Executive Management,Executive Management,ChiefDelOff,Corporate,Corporate,Generic,12/13/2020
+Chief of Operations,13.5,13.5-Chief of Operations,ChiefOfOps,Executive Management,Executive Management,ChiefOfOps (1),Corporate,Corporate,Generic,4/1/2022
+Chief People Officer,13.5,13.5-Chief People Officer,CHRO,Executive Management,Executive Management,CPO(3),Corporate,Corporate,Generic,1/14/2020
+Chief Planning Officer,13.5,13.5-Chief Planning Officer,CPlanO,Executive Management,Executive Management,CPO (5),Corporate,Corporate,Generic,1/14/2020
+Chief Sales Officer,13.5,13.5-Chief Sales Officer,ChiefSalesOff,Executive Management,Executive Management,ChiefSalesOff (1),Global Sales,Sales,Generic,1/1/2020
+Chief Strategy Officer,13.5,13.5-Chief Strategy Officer,CSO,Executive Management,Executive Management,CSO,Corporate,Corporate,Generic,2/3/2020
+General Counsel,13.5,13.5-General Counsel,GenCounsel,Executive Management,Executive Management,GenCon,Corporate,Corporate,Generic,1/14/2020
+Chief Strategy Officer,13.7,13.7-Chief Strategy Officer,CSO,Executive Management,Executive Management,CSO (1),Corporate,Corporate,Generic,9/21/2020
+Executive Director and Chief Financial Officer,13.7,13.7-Executive Director and Chief Financial Officer,ExeDirandChiFO,Executive Management,Executive Management,ExeDirandChiFO,Corporate,Corporate,Generic,1/1/2020
+Head - Business Finance - Acquired entities,13.1,13.1-Head - Business Finance - Acquired entities,Head - Business Finance - Acquired entities,Finance & Secretarial,Enabling,HeadBusFinAcquEnt (1),Finance,Finance,Generic,11/22/2021
+"Head - Investor Relations & Business Finance, Industry",11.3,"11.3-Head - Investor Relations & Business Finance, Industry","Head - Investor Relations & Business Finance, Industry",Finance & Secretarial,Enabling,HeadInvRelBusFinInd (1),Finance,Finance,Generic,1/1/2022
+"Head - Investor Relations & Business Finance, Industry",13.1,"13.1-Head - Investor Relations & Business Finance, Industry","Head - Investor Relations & Business Finance, Industry",Finance & Secretarial,Enabling,HeadInvRelBusFinInd (2),Finance,Finance,Generic,1/1/2022
+"Head - Invoicing & Business Finance, Service Lines",11.3,"11.3-Head - Invoicing & Business Finance, Service Lines","Head - Invoicing & Business Finance, Service Lines",Finance & Secretarial,Enabling,HeadInvBusFinSerlines (1),Finance,Finance,Generic,1/1/2022
+"Head - Invoicing & Business Finance, Service Lines",13.1,"13.1-Head - Invoicing & Business Finance, Service Lines","Head - Invoicing & Business Finance, Service Lines",Finance & Secretarial,Enabling,HeadInvBusFinSerlines (2),Finance,Finance,Generic,1/1/2022
+Head - Enterprise Data & Insights,13.1,13.1-Head - Enterprise Data & Insights,HeadEntDataIns,ITSM - ITIL,Delivery,HeadEntDataIns (1),Delivery Units,Information Technology Infrastructure,Generic,3/28/2022
+Associate Senior Manager - Corporate Development,7.1,7.1-Associate Senior Manager - Corporate Development,AssoSrMgrCorpDev,Legal and M&A,Enabling,Asso.Sr.Mgr (14),Corporate Development,Corporate Development,Generic,4/1/2011
+Senior Manager - Corporate Development,7.3,7.3-Senior Manager - Corporate Development,SrMgrCorpDev,Legal and M&A,Enabling,Sr. Mgr (23),Corporate Development,Corporate Development,Generic,7/1/2014
+Associate Vice President - SW & Hi-Tech & Telecom & Media,11.1,11.1-Associate Vice President - SW & Hi-Tech & Telecom & Media,AVPSWT&M,Marketing,Sales & Marketing,AVPSWT&M(1),Business Development,Marketing,Generic,8/1/2022
+"Associate Vice President, Data and Analytics Marketing",11.1,"11.1-Associate Vice President, Data and Analytics Marketing",AVPDataAndAnaMkt,Marketing,Sales & Marketing, AVPDataAndAnaMkt (1),Business Development,Marketing,Generic,3/29/2022
+"Associate Vice President, Data and Analytics Marketing",11.3,"11.3-Associate Vice President, Data and Analytics Marketing",AVPDataAndAnaMkt,Marketing,Sales & Marketing, AVPDataAndAnaMkt (2),Business Development,Marketing,Generic,3/30/2022
+"Associate Vice President, Global Salesforce & Europe Marketing",11.1,"11.1-Associate Vice President, Global Salesforce & Europe Marketing",AVPGlobsalesandEuroMkt,Marketing,Sales & Marketing,AVPGlobsalesandEuroMkt (1),Business Development,Marketing,Generic,6/1/2021
+Senior Officer - Marketing,1.3,1.3-Senior Officer - Marketing,SrOffMkt,Marketing,Sales & Marketing,SrOffMkt (1),Business Development,Marketing,Generic,11/23/2021
+Vice President Marketing - BFSI & HCLS,11.1,11.1-Vice President Marketing - BFSI & HCLS,VPMKTBFSI&HCLS,Marketing,Sales & Marketing,VPMKTBFSI&HCLS(1),Business Development,Marketing,Generic,8/1/2022
+Group Manager - Accounts and Partnerships,9.1,9.1-Group Manager - Accounts and Partnerships,GrMgrAcc&Part,Partnerships,Sales & Marketing,GrMgrAcc&Part (1),Global Sales,Sales,Generic,7/20/2021
+Senior Vice President - Partnerships,13.3,13.3-Senior Vice President - Partnerships,SVP-Partnerships,Partnerships,Sales & Marketing,SVP-Partnerships (1),Global Sales,Sales,Generic,3/6/2020
+Senior Vice President - Partnerships,13.5,13.5-Senior Vice President - Partnerships,SVP-Partnerships,Partnerships,Sales & Marketing,SVP-Partnerships (2),Global Sales,Sales,Generic,9/21/2020
+Advisor - People Success and Transformation Initiatives,11.1,11.1-Advisor - People Success and Transformation Initiatives,AdvisorPeoSuccandTranIni,People Functions,Enabling,AdvisorPeoSuccandTranIni (1),Human Resources,Human Resources,Generic,9/1/2021
+Advisor - People Success and Transformation Initiatives,11.3,11.3-Advisor - People Success and Transformation Initiatives,AdvisorPeoSuccandTranIni,People Functions,Enabling,AdvisorPeoSuccandTranIni (2),Human Resources,Human Resources,Generic,9/1/2021
+"Chairperson, Persistent Foundation ",1.1,"1.1-Chairperson, Persistent Foundation ",ChperPersistentFdn,People Functions,Enabling, ChperPersistentFdn (1),Human Resources,Human Resources,Generic,7/8/2021
+Head - Campus Talent Acquisition,9.3,9.3-Head - Campus Talent Acquisition,HeadCampusTA,People Functions,Enabling,HeadCampusTA(1),Human Resources,Human Resources,Generic,8/5/2022
+Head - HR Digital and Technology ,11.3,11.3-Head - HR Digital and Technology ,HeadHRDigAndTech,People Functions,Enabling,HeadHRDigAndTech(1),Human Resources,Human Resources,Generic,8/5/2022
+Head - People Operations,13.1,13.1-Head - People Operations,Hd-PplOpr,People Functions,Enabling,Hd-PplOpr (1),Human Resources,Human Resources,Generic,8/5/2022
+Head - Resource Management,13.1,13.1-Head - Resource Management,Head-RM,People Functions,Enabling,HeadResMgmt (1),Resource Management,Resource Allocation,Generic,3/28/2022
+Head - Talent Acquisition,13.1,13.1-Head - Talent Acquisition,HeadTA,People Functions,Enabling,HeadTA (1),Resource Management,Recruitment,Generic,4/8/2022
+Head HR,9.1,9.1-Head HR,HeadHR,People Functions,Enabling,HeadHR (2),Human Resources,Human Resources,Generic,10/1/2021
+Head HR,9.3,9.3-Head HR,HeadHR,People Functions,Enabling,HeadHR (3),Human Resources,Human Resources,Generic,10/1/2021
+Head HR,11.1,11.1-Head HR,HeadHR,People Functions,Enabling,HeadHR (5),Human Resources,Human Resources,Generic,10/1/2021
+Executive - Contract Management,3.2,3.2-Executive - Contract Management,ExeContMgmt,Planning,Enabling,ExeContMgmt (1),Planning & Tracking,Planning & Tracking,Generic,9/1/2021
+Senior Executive - Contract Management,3.3,3.3-Senior Executive - Contract Management,SrExeContMgmt,Planning,Enabling,SrExeContMgmt (1),Planning & Tracking,Planning & Tracking,Generic,9/1/2021
+Associate Executive - Sales Operations,3.1,3.1-Associate Executive - Sales Operations,AssoExeSalesOps,Sales,Sales & Marketing, AssoExeSalesOps (1),Global Sales,Sales,Generic,1/23/2022
+"Associate Vice President, Business Development",11.3,"11.3-Associate Vice President, Business Development",AVPBD,Sales,Sales & Marketing,AVPBD(1),Global Delivery Units,Pre-Sales & Sales,Sales,12/11/2019
+Head - Presales & Solutions,13.1,13.1-Head - Presales & Solutions,HdPresalesandSol,Sales,Sales & Marketing,HdPresalesandSol (1),Global Sales,Pre-Sales & Sales,Generic,1/1/2022
+Vice President - Sales and Center Head,13.1,13.1-Vice President - Sales and Center Head,VPSalesAndCH,Sales,Sales & Marketing,VPSalesAndCH (1),Global Sales,Sales,Generic,4/27/2022
+Head - Presales & Solutions,13.3,13.3-Head - Presales & Solutions,HdPresalesandSol,Sales,Sales & Marketing,HdPresalesandSol (2),Global Sales,Pre-Sales & Sales,Generic,1/1/2022
+Vice President - Sales and Center Head,13.3,13.3-Vice President - Sales and Center Head,VPSalesAndCH,Sales,Sales & Marketing,VPSalesAndCH (2),Global Sales,Sales,Generic,4/27/2022
+Head - Enterprise Risk Management,13.1,,,Corporate Office,Enabling,,Corporate,Corporate,Generic,3/28/2022
